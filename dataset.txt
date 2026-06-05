@@ -1,0 +1,6 @@
+1. studentInfo.csv (MOST IMPORTANT)
+WHAT IT CONTAINS
+
+This is the MAIN student table.
+
+Each row = one student enrolled in one course.

@@ -1,0 +1,105 @@
+feature,dtype,null_count,unique_count,mean
+code_module,str,0,7,
+code_presentation,str,0,4,
+id_student,int64,0,28785,706687.6691314086
+num_of_prev_attempts,int64,0,7,0.16322523241186757
+studied_credits,int64,0,61,79.75869051636855
+final_result,str,0,4,
+edu_level,int64,0,5,1.739330531095634
+age_numeric,int64,0,3,0.3026723529592244
+imd_numeric,float64,0,10,41.059736753290586
+deprivation_score,float64,0,10,58.940263246709414
+is_female,int64,0,2,0.4515693553830577
+has_disability,int64,0,2,0.09707605927653178
+is_first_attempt,int64,0,2,0.8719970545822723
+is_repeater,int64,0,2,0.12800294541772772
+multi_repeater,int64,0,2,0.026784892461571504
+credit_load,category,0,3,
+credit_load_num,category,0,3,
+high_credit_load,int64,0,2,0.0692173166017243
+module_fail_rate,float64,0,7,0.527966127696131
+presentation_pass_rate,float64,0,22,0.47203387230386895
+is_withdrawn,int64,0,2,0.3116006504464149
+region_withdrawal_rate,float64,0,13,0.3116006504464149
+gender_M,int64,0,2,0.5484306446169422
+region_East Midlands Region,int64,0,2,0.07256159298008776
+region_Ireland,int64,0,2,0.0363268186420397
+region_London Region,int64,0,2,0.09867149387905379
+region_North Region,int64,0,2,0.05593225539226214
+region_North Western Region,int64,0,2,0.08916024913324946
+region_Scotland,int64,0,2,0.10572822385174731
+region_South East Region,int64,0,2,0.06476850857546099
+region_South Region,int64,0,2,0.09486699598073206
+region_South West Region,int64,0,2,0.07473997484122358
+region_Wales,int64,0,2,0.06400147270886386
+region_West Midlands Region,int64,0,2,0.07921946430215077
+region_Yorkshire Region,int64,0,2,0.06154695793575308
+highest_education_HE Qualification,int64,0,2,0.1451231859601755
+highest_education_Lower Than A Level,int64,0,2,0.4037063173073973
+highest_education_No Formal quals,int64,0,2,0.010646457828368055
+highest_education_Post Graduate Qualification,int64,0,2,0.009603289049795969
+imd_band_10-20,int64,0,2,0.1303040530175191
+imd_band_20-30%,int64,0,2,0.11210996226183537
+imd_band_30-40%,int64,0,2,0.10873500444880803
+imd_band_40-50%,int64,0,2,0.09989875126560918
+imd_band_50-60%,int64,0,2,0.096216979105943
+imd_band_60-70%,int64,0,2,0.08912956769858559
+imd_band_70-80%,int64,0,2,0.08833185039732458
+imd_band_80-90%,int64,0,2,0.08474212254165005
+imd_band_90-100%,int64,0,2,0.07928082717147854
+age_band_35-55,int64,0,2,0.2894179731844261
+age_band_55<=,int64,0,2,0.0066271898873991346
+disability_Y,int64,0,2,0.09707605927653178
+result_numeric,int64,0,4,1.253213880281042
+result_binary,int64,0,2,0.47203387230386895
+result_4class,int64,0,4,1.253213880281042
+total_clicks,float64,0,5517,1479.033412082349
+mean_daily_clicks,float64,0,20480,3.007920370315014
+std_daily_clicks,float64,0,25280,5.058064553576294
+max_daily_clicks,float64,0,455,53.10539072807045
+min_daily_clicks,float64,0,8,0.9166385420182248
+median_daily_clicks,float64,0,15,1.3700641241984475
+total_sessions,float64,0,1985,399.0603810634185
+click_cv,float64,0,25425,1.3873835278330868
+click_range,float64,0,454,52.18875218605222
+click_q25,float64,0,17,0.9231660172429663
+click_q75,float64,0,42,2.940040806308103
+click_iqr,float64,0,40,2.016874789065137
+clicks_early,float64,0,2599,522.0075476329273
+clicks_late,float64,0,2088,289.19976682109655
+clicks_mid,float64,0,3201,586.7636915902187
+clicks_pre_module,float64,0,873,81.06240603810635
+first_active_day,float64,0,142,-8.306262080814898
+last_active_day,float64,0,294,168.68155738962355
+engagement_span_days,float64,0,295,176.98781947043844
+active_days,float64,0,286,63.51268677323352
+unique_sites_visited,float64,0,382,73.2839259963796
+activity_density,float64,0,9900,0.3222392308438425
+click_velocity,float64,0,5397,-0.21144792382697786
+click_acceleration,float64,0,6974,-1.8432231751881676
+velocity_positive_weeks,float64,0,26,9.609241248120762
+clicks_last30,float64,0,1332,159.05363114779246
+pct_clicks_last30,float64,0,23380,21.46073860768376
+max_silence_days,float64,0,187,21.21317460804467
+site_click_entropy,float64,0,25501,2.6255290650983
+top_site_dominance_pct,float64,0,23546,22.549300501137946
+rfm_engagement_score,float64,0,25801,0.2903594798693383
+clicks_per_credit,float64,0,12452,22.190019642675242
+sessions_per_credit,float64,0,6574,5.967240279060679
+early_to_total_ratio,float64,0,21725,0.4029954404445402
+late_to_total_ratio,float64,0,16395,0.12936280410729462
+mid_engagement_boost,float64,0,19379,1.6068098858958237
+burnout_risk_index,float64,0,27747,0.06797398672739673
+resilience_score,float64,0,25984,0.37476979361599944
+socioeconomic_risk,float64,0,20,0.40976930970181047
+adjusted_total_clicks,float64,0,14942,2269.1496509719077
+log_total_clicks,float64,0,5517,5.998688696748641
+log_mean_daily_clicks,float64,0,20480,1.2979049761723342
+log_max_daily_clicks,float64,0,455,3.3018726106108427
+log_click_range,float64,0,454,3.2555050928454827
+log_total_sessions,float64,0,1985,4.97334895211177
+log_clicks_per_credit,float64,0,12452,2.330198139345948
+log_adjusted_total_clicks,float64,0,14942,6.381513647650094
+log_clicks_early,float64,0,2599,5.083314822855982
+log_clicks_mid,float64,0,3201,4.457830252529726
+log_clicks_late,float64,0,2088,3.301942725538033
