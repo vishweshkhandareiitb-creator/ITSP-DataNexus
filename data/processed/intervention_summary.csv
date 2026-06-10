@@ -1,0 +1,6 @@
+cluster_name,risk_level,student_count,avg_clicks,avg_score,avg_risk_index
+Academically At-Risk Students,High,6391,581.03,67.37,0.63
+Consistent Learners,Low,13574,1116.6,74.15,0.5
+Early Dropouts,Critical,2893,0.35,0.36,3.99
+High Achievers,Very Low,5462,4796.5,79.62,0.52
+Struggling Learners,High,4273,375.76,1.39,3.26
