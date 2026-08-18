@@ -1,2 +1,12 @@
 ﻿models/random_forest.pkl
 studentVle.csv
+
+# Environments
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+db.sqlite3
